@@ -1,6 +1,5 @@
 int getMiddle(Node *head)
 {
-   // Your code here
    Node* fast = head;
    Node* slow = head;
 
